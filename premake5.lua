@@ -19,7 +19,6 @@ files
 }
 
     filter "system:windows"
-    buildoptions {"-std=c11", "lgdi32"}
     systemversion "latest"
     staticruntime "On"
 
