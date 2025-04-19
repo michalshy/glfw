@@ -25,15 +25,15 @@ files
 
     files
     {
-       "stc/win32_init.c", 
-       "stc/win32_joystick.c", 
-       "stc/win32_monitor.c",
-       "stc/win32_time.c",
-       "stc/win32_thread.c",
-       "stc/win32_window.c",
-       "stc/wgl_context.c",
-       "stc/egl_context.c",
-       "stc/osmesa_context.c"
+       "src/win32_init.c", 
+       "src/win32_joystick.c", 
+       "src/win32_monitor.c",
+       "src/win32_time.c",
+       "src/win32_thread.c",
+       "src/win32_window.c",
+       "src/wgl_context.c",
+       "src/egl_context.c",
+       "src/osmesa_context.c"
     }
 
     defines
